@@ -113,7 +113,7 @@ Jest • React Testing Library • Cypress • Vitest
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/harshil-gorasia
+* 💼 LinkedIn: [https://www.linkedin.com/in/harshil-gorasia-mern-stack](https://www.linkedin.com/in/harshil-gorasia-mern-stack/)
 * 📧 Email: **[harshilgorasia13@gmail.com](mailto:harshilgorasia13@gmail.com)**
 * 📍 Frankfurt am Main, Germany
 * 📞 Mobile: +49 155 1094018
