@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Software Developer** with **2+ years of industry experience** building **scalable, secure, and high-performance web applications**.
+I'm a **Full Stack Software Developer** with **3+ years of industry experience** building **scalable, secure, and high-performance web applications**.
 
 * 🎓 **M.Sc. in High Integrity Systems** (Frankfurt, Germany)
 * ⚛️ Strong expertise in **React, TypeScript, Node.js**
@@ -117,6 +117,11 @@ Jest • React Testing Library • Cypress • Vitest
 * 📧 Email: **[harshilgorasia13@gmail.com](mailto:harshilgorasia13@gmail.com)**
 * 📍 Frankfurt am Main, Germany
 * 📞 Mobile: +49 155 1094018
+
+---
+
+## ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
